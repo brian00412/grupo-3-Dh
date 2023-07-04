@@ -1,5 +1,5 @@
 # BurgerOne
-Tienda destinada a los amantes de la gastronomía
+Tienda destinada a los amantes de la gastronomía.
 
 ## Integrantes
 Santiago Martin, 17 años.
