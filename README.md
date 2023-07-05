@@ -10,7 +10,6 @@ Josue Mamani, 18 años.
 Paredes Priscila, 17 años.
 Montoya Indira, 19 años.
 Sueldo Victoria, 17 años.
-
 Alejandra Rocio Mamani, 23 años.
 
 
